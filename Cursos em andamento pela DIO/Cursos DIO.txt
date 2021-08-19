@@ -21,53 +21,36 @@ Docker:
 Introdução a Orquestração de contêineres com Docker (Finalizado)
 
 PostgreSQL:
-Conceitos e melhores praticas com bancos de dados PostgreSQL
+Conceitos e melhores praticas com bancos de dados PostgreSQL (Finalizado)
 
 MongoDB e NoSQL:
-Introdução ao MongoDB e Banco de Dados NoSQL
+Introdução ao MongoDB e Banco de Dados NoSQL (Finalizado)
 
 Python:
-Introdução a programação com Python
-Segurança da Informação com Python
-Fundamentos de ETL com Python
-Criando pipelines de dados eficientes com Spark e Python
-Análise de Dados com Python e Pandas
+Introdução a programação com Python (Finalizado)
+Segurança da Informação com Python (Finalizado)
+Fundamentos de ETL com Python (Finalizado)
+Criando pipelines de dados eficientes com Spark e Python (Finalizado)
+Análise de Dados com Python e Pandas (Finalizado)
 Desafios:
-Soluções Aritméticas em Python
-Solucionando Desafios em Python
+Soluções Aritméticas em Python (Finalizado)
+Solucionando Desafios em Python (Finalizado)
 
 Big Data e Hadoop:
-Introdução ao Big Data e Hadoop 
+Introdução ao Big Data e Hadoop (Finalizado)
 
-Arquitetura e Modelagem de Dados:
+Arquitetura e Modelagem de Dados: (Finalizado)
 
-Governança de Dados:
+Governança de Dados: (Finalizado)
 
-Monitoramento de clusters Hadoop de Alto nível com HDFS e YARN:
+Monitoramento de clusters Hadoop de Alto nível com HDFS e YARN: (Finalizado)
 
 Big Data:
-Orquestrando ambientes de Big Data distribuídos 
-com Zokeeper, Yarn e Sqoop:
+Orquestrando ambientes de Big Data distribuídos com Zokeeper, Yarn e Sqoop: (Finalizado)
 
-Como realizar consultas de maneira simples no ambiente 
-complexo de Big Data com Hive e Impala:
+Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala: (Finalizado)
 
-Processando grandes conjuntos de dados de forma paralela e distribuída 
-com Spark:
+Processando grandes conjuntos de dados de forma paralela e distribuída com Spark: (Finalizado)
 
 
-
-Trabalhando com visualização de dados usando MicroStrategy:
-
-
-
-
-
-
-
-
-
-Python:
-
-Java:
-
+Trabalhando com visualização de dados usando MicroStrategy: (Finalizado)
