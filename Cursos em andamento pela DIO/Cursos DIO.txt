@@ -1,6 +1,73 @@
-Curso de Git/GitHub: (Finalizado)
+Cursos e Bootcamps em andamento na Dio 
 
-Cursos de Python:
+Git/GitHub: 
+Introdução ao Git e ao GitHub (Finalizado)
 
-Cursos de Java:
+Linux:
+Introdução ao sistema operacional (Finalizado)
+Shell script - Manipulando Arquivos (Finalizado)
+
+Engenharia de Dados:
+Introdução a Engenharia de Dados (Finalizado)
+
+Ciência de Dados:
+Introdução a Ciência de Dados (Finalizado)
+
+Arquitetura de Sistemas:
+Fundamentos de Arquitetura de Sistemas (Finalizado)
+Arquitetura de Sistemas Avançado (Finalizado)
+
+Docker:
+Introdução a Orquestração de contêineres com Docker (Finalizado)
+
+PostgreSQL:
+Conceitos e melhores praticas com bancos de dados PostgreSQL
+
+MongoDB e NoSQL:
+Introdução ao MongoDB e Banco de Dados NoSQL
+
+Python:
+Introdução a programação com Python
+Segurança da Informação com Python
+Fundamentos de ETL com Python
+Criando pipelines de dados eficientes com Spark e Python
+Análise de Dados com Python e Pandas
+Desafios:
+Soluções Aritméticas em Python
+Solucionando Desafios em Python
+
+Big Data e Hadoop:
+Introdução ao Big Data e Hadoop 
+
+Arquitetura e Modelagem de Dados:
+
+Governança de Dados:
+
+Monitoramento de clusters Hadoop de Alto nível com HDFS e YARN:
+
+Big Data:
+Orquestrando ambientes de Big Data distribuídos 
+com Zokeeper, Yarn e Sqoop:
+
+Como realizar consultas de maneira simples no ambiente 
+complexo de Big Data com Hive e Impala:
+
+Processando grandes conjuntos de dados de forma paralela e distribuída 
+com Spark:
+
+
+
+Trabalhando com visualização de dados usando MicroStrategy:
+
+
+
+
+
+
+
+
+
+Python:
+
+Java:
 
